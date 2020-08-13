@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi!
+
+Sysadmin -> Consultant -> Technical Account Manager -> Software Maintenance Engineer -> Systems Engineer [CV](https://iranzo.github.io/cv)
+
+- 🐧 Linux
+- 📦 [Blog](https://iranzo.github.io)
+- 🎩 Senior Systems Engineer at Red Hat
+- 🐦 [Twitter](https://twitter.com/iranzop)
+
+[Site](https://iranzo.github.io) • [Twitter](https://twitter.com/iranzop) • [Linkedin](https://www.linkedin.com/in/iranzo/)
+
+---
+
+[![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=iranzo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
