@@ -21,8 +21,7 @@ System Administrator -> Consultant -> Technical Account Manager -> Software Main
 - 📦 [Blog](https://iranzo.github.io)
 - 🎩 Currently: Senior Systems Engineer at Red Hat ([CV](https://iranzo.github.io/cv))
 - 🐦 [Twitter](https://twitter.com/iranzop)
-- :man_office_worker: [LinkedIn](https://www.linkedin.com/in/iranzo/)
--
+- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/iranzo/)
 
 ---
 
