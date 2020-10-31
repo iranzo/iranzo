@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-System Administrator -> Consultant -> Technical Account Manager -> Software Maintenance Engineer -> Systems Engineer
+System Administrator -> Consultant -> Technical Account Manager -> Software Maintenance Engineer ->
+Software Engineer (Solutions Engineering)
 
 - 🐧 Linux user since (very) long ago :-)
 - 📦 [Blog](https://iranzo.github.io)
-- 🎩 Currently: Senior Systems Engineer at Red Hat ([CV](https://iranzo.github.io/cv))
+- 🎩 Currently: Senior Software Engineer - Solutions Engineering at Red Hat ([CV](https://iranzo.github.io/cv))
 - 🐦 [Twitter](https://twitter.com/iranzop)
 - 👨‍💼 [LinkedIn](https://www.linkedin.com/in/iranzo/)
 
