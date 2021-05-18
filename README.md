@@ -19,8 +19,8 @@ System Administrator -> Consultant -> Technical Account Manager -> Software Main
 Software Engineer (Solutions Engineering)
 
 - 🐧 Linux user since (very) long ago :-)
-- 📦 [Blog](https://iranzo.github.io)
-- 🎩 Currently: Senior Software Engineer - Solutions Engineering at Red Hat ([CV](https://iranzo.github.io/cv))
+- 📦 [Blog](https://iranzo.io)
+- 🎩 Currently: Senior Software Engineer - Solutions Engineering at Red Hat ([CV](https://iranzo.io/cv))
 - 🐦 [Twitter](https://twitter.com/iranzop)
 - 👨‍💼 [LinkedIn](https://www.linkedin.com/in/iranzo/)
 
