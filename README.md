@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-System Administrator -> Consultant -> Technical Account Manager -> Software Maintenance Engineer ->
-Software Engineer (Solutions Engineering)
+System Administrator -> Consultant -> Technical Account Manager -> Principal Software Maintenance Engineer ->
+Principal Software Engineer (Solutions Engineering) -> Principal Software Engineer (Edge Group - Partner Accelerators)
 
 - 🐧 Linux user since (very) long ago :-)
 - 📦 [Blog](https://iranzo.io)
 - 🎩 Currently: Principal Software Engineer - Solutions Engineering at Red Hat ([CV](https://iranzo.io/cv))
 - 🐦 [Twitter](https://twitter.com/iranzop)
 - 👨‍💼 [LinkedIn](https://www.linkedin.com/in/iranzo/)
+- 🦋 [bsky](https://bsky.app/profile/iranzo.io)
 
 ---
 
