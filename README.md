@@ -20,7 +20,7 @@ Principal Software Engineer (Solutions Engineering) -> Principal Software Engine
 
 - 🐧 Linux user since (very) long ago :-)
 - 📦 [Blog](https://iranzo.io)
-- 🎩 Currently: Principal Software Engineer - Solutions Engineering at Red Hat ([CV](https://iranzo.io/cv))
+- 🎩 Currently: Principal Software Engineer - Edge Group - Partner Accelerators at Red Hat ([CV](https://iranzo.io/cv))
 - 🐦 [Twitter](https://twitter.com/iranzop)
 - 👨‍💼 [LinkedIn](https://www.linkedin.com/in/iranzo/)
 - 🦋 [bsky](https://bsky.app/profile/iranzo.io)
